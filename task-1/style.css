@@ -5,6 +5,9 @@ body {
 
 header {
     height: 30%;
+    background: url(./assets/background.jpg);
+    background-size: contain;
+    background-repeat: repeat;
 }
 
 h1 {
@@ -12,3 +15,4 @@ h1 {
     color: white;
     margin: 0;
 }
+git@github.com:fbw-d09/uib-boxmodel-backgroundimages-imadteryaki.git
